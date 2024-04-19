@@ -188,10 +188,6 @@ Run:
 
 This will create a server at `http://localhost:8888/` or at the port number specified using the `-p or --port` option via the `cli`.
 
-## License
-
-Released under [MIT](LICENSE) by [@VD39](https://github.com/VD39).
-
 <!-- Image URls -->
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
