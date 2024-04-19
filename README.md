@@ -204,6 +204,6 @@ Released under [MIT](LICENSE) by [@VD39](https://github.com/VD39).
 
 [license-url]: LICENSE
 [version-url]: package.json
-[ci-url]: https://github.com/WFitzhenry/typescript-starter/actions?query=branch%3Amain
-[coverage-url]: https://github.com/WFitzhenry/typescript-starter?branch=main
-[commit-url]: https://github.com/WFitzhenry/typescript-starter/commits/main
+[ci-url]: https://github.com/WFitzhenry/typescript_starter/actions?query=branch%3Amain
+[coverage-url]: https://github.com/WFitzhenry/typescript_starter?branch=main
+[commit-url]: https://github.com/WFitzhenry/typescript_starter/commits/main
