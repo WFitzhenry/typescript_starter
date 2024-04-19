@@ -1,6 +1,6 @@
 {
   "name": "typescript-webpack-boilerplate",
-  "version": "5.0.0",
+  "version": "1.0.0",
   "private": false,
   "description": "A starter template/boilerplate built with TypeScript/JavaScript, Babel, Webpack 5, PostCSS, Jest, ESLint, and Stylelint.",
   "keywords": [
@@ -16,15 +16,12 @@
     "TypeScript",
     "Webpack 5"
   ],
-  "bugs": {
-    "url": "https://github.com/VD39/typescript-webpack-boilerplate/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VD39/typescript-webpack-boilerplate.git"
+    "url": "https://github.com/WFItzhenry/typescript_starter.git"
   },
   "license": "MIT",
-  "author": "Vijay Dubb",
+  "author": "Warren Fitzhenry",
   "type": "module",
   "main": "",
   "scripts": {
