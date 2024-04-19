@@ -204,6 +204,6 @@ Released under [MIT](LICENSE) by [@VD39](https://github.com/VD39).
 
 [license-url]: LICENSE
 [version-url]: package.json
-[ci-url]: https://github.com/VD39/typescript-webpack-boilerplate/actions?query=branch%3Amaster
-[coverage-url]: https://github.com/VD39/typescript-webpack-boilerplate?branch=master
-[commit-url]: https://github.com/VD39/typescript-webpack-boilerplate/commits/master
+[ci-url]: https://github.com/WFitzhenr9/typescript-starter/actions?query=branch%3Amaster
+[coverage-url]: https://github.com/WFitzhenr/typescript-starter?branch=master
+[commit-url]: https://github.com/WFitzhenry/typescript-starter/commits/master
